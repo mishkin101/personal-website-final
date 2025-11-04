@@ -32,7 +32,10 @@ While at <span>
 
 I also mentored as a **Data Science Instructor** for [The Coding School](https://the-cs.org/)
 
-Here's a brief history of what I've done:
+# Currently [[Fun]]
+![[TechnoTaggr]]
+
+# A brief [[Work History|History]] of me
 
 ![[Work History]]
 
