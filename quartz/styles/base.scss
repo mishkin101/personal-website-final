@@ -21,9 +21,18 @@ body {
 
 .text-highlight {
   background-color: var(--textHighlight);
+  color: #c94d00;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
+
+:root[saved-theme="dark"] .text-highlight {
+  background-color: var(--textHighlight);
+  color: #c69271;
+   padding: 0 0.1rem;
+  border-radius: 5px;
+}
+
 ::selection {
   background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);

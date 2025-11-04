@@ -1,3 +1,22 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Light mode */
+[data-theme="light"] mark {
+    background: #9acbff;  /* pick your color */
+    color: inherit;
+    padding: 0 .15em;
+    border-radius: .2em;
+  }
+  
+  /* Dark mode */
+  [data-theme="dark"] mark {
+    background: rgba(255, 214, 102, .45);
+    color: inherit;
+    padding: 0 .15em;
+    border-radius: .2em;
+  }
+  
+.transclude-src {
+    display: none !important;
+  }
