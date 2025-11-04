@@ -1,0 +1,1 @@
+![[Microsoft_logo.svg.png]]

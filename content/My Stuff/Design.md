@@ -1,0 +1,4 @@
+- [[Logo Designs]]
+- [[Quantum Coalition - SQUID2023]]
+- [[UT Quantum Collective]]
+- [[DSCI556 - Figma Tutorials]]

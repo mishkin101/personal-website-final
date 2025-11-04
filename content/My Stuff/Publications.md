@@ -1,0 +1,2 @@
+- [[ A Survey of Methods for Mitigating Barren Plateaus in Parameterized Quantum Circuits]]
+- 
