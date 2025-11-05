@@ -32,6 +32,8 @@ While at <span>
 
 I also mentored as a **Data Science Instructor** for [The Coding School](https://the-cs.org/)
 
+Catch me at the 🧗🏻‍♂️gym coaching, out at a ☕️ shop, or making 🎨
+
 # Currently [[Fun]]
 ![[TechnoTaggr]]
 
