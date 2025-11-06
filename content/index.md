@@ -66,7 +66,7 @@ Catch me at the 🧗🏻‍♂️gym coaching, out at a ☕️ shop, or making �
 ![[A Survey of Methods for Mitigating Barren Plateaus in Parameterized Quantum Circuits#^c70b8b]]
 
 # [[Awards]]
-![[Awards List^awardlist]]
+![[Awards List#^cfg345]]
 # [[Public Service]]
 ![[Public Service list#^cdf7ac]]
 
