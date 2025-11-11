@@ -54,6 +54,10 @@ Catch me at the 🧗🏻‍♂️gym coaching, out at a ☕️ shop, or making �
 ![[Notion AI RAG Reasoning and Prompt Case Study#^9447ac]]
 ![[Multivariate Time Series Classification - Activity Data from Wireless Sensor Network#^4cfb39]]
 ![[Concatenanted Dynamic Decoupling#^7918b8]]
+
+# [[Code]]
+![[Pauli Operator Package^b40657]]
+
 # [[Product]]
 ![[Solar Panel Installation Project#^b40656]]
 ![[Mishka's Paw-sitive Pet Care#^98d775]]

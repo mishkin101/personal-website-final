@@ -9,4 +9,3 @@
 >	- Led creator,  [S.Q.U.I.D. 2023](https://www.quantumcoalition.io/squid2023) global undergraduate research 
 
 ^cdf7ac
-
