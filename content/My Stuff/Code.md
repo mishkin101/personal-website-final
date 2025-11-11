@@ -1,1 +1,1 @@
-[[Pauli Operator Package]]
+- [[Pauli Operator Package]]

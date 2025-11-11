@@ -56,7 +56,7 @@ Catch me at the 🧗🏻‍♂️gym coaching, out at a ☕️ shop, or making �
 ![[Concatenanted Dynamic Decoupling#^7918b8]]
 
 # [[Code]]
-![[Pauli Operator Package^b40657]]
+![[Pauli Operator Package#^b40658]]
 
 # [[Product]]
 ![[Solar Panel Installation Project#^b40656]]
