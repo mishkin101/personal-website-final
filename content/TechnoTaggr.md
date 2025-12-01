@@ -1,2 +1,2 @@
 Exploring audio signal processing with [Essentia]() Tensorflow models to develop a music analysis tool which can analyze a folder containing music of various formats and add features metadata to audio files useful for categorizing and grouping tracks for DJing.
-### [Github](https://github.com/mishkin101/Essentia_Music_classifier)
+### [Github](https://github.com/mishkin101/technotaggr)
