@@ -36,7 +36,7 @@ Catch me at the 🧗🏻‍♂️gym coaching, out at a ☕️ shop, or making �
 
 # Currently [[Fun]]
 ![[TechnoTaggr]]
-![[CRAFT NLP Model - Mediation Chatbot]]
+![[CRAFT - Mediation Chatbot]]
 
 # A brief [[Work History|History]] of me
 
